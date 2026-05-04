@@ -1,6 +1,6 @@
-# sDex
+# sDEX
 
-**sDex (Savi Dex)** is a modified version of **DEX Explorer v4.0 (Adonis Edition)**.
+**sDEX (Savi DEX)** is a modified version of **DEX Explorer v4.0 (Adonis Edition)**.
 
 Original DEX Explorer:  
 https://github.com/LorekeeperZinnia/Dex  
