@@ -1,6 +1,6 @@
-# sDEX
+# zDEX
 
-**sDEX (Savi DEX)** is a modified version of **DEX Explorer v4.0 (Adonis Edition)**.
+**zDEX (Zeno's DEX)** is a modified version of **DEX Explorer v4.0 (Adonis Edition)**.
 
 Original DEX Explorer:  
 https://github.com/LorekeeperZinnia/Dex  
@@ -18,4 +18,4 @@ https://discord.gg/2kzrbnSX5g
 ---
 ### Usage:
 ```lua
-require(135663306330636).sdexv4("ur user")
+require(135663306330636).zdex("ur user")
