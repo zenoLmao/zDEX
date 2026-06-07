@@ -8,7 +8,7 @@ https://github.com/LorekeeperZinnia/Dex
 ---
 
 ### Asset Page:
-https://create.roblox.com/store/asset/135663306330636/Savi-Dex-Public  
+https://create.roblox.com/store/asset/103443015112630/
 
 ---
 
@@ -18,4 +18,4 @@ https://discord.gg/2kzrbnSX5g
 ---
 ### Usage:
 ```lua
-require(135663306330636).zdex("ur user")
+require(103443015112630).zdex("ur user")
